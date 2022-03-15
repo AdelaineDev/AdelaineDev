@@ -8,7 +8,7 @@
 <br>
 
 
-![Adelaine GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelaineSantos&show_icons=true&theme=dark)
+![Adelaine GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelaineDev&show_icons=true&theme=dark)
 
 <br>
 
