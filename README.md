@@ -17,7 +17,7 @@ Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e u
 </div>
 
 
-<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho o conhecimento intermediário:
+<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho conhecimento:
 <span> 
 
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() &nbsp;
@@ -30,6 +30,7 @@ Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e u
  
 <span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que estou aprendendo:
 <span> 
+ 
 [![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
