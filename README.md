@@ -1,8 +1,9 @@
 <span style="color ; font-family: Lucida Sans Unicode ; font-size: 28px;"> Hello, World! ✋
 <br>
 
-<span style="color ; font-family: ; font-size: 18px;"> Sou uma pessoa que percebe as tecnologias como uma ferramenta de mudança social e da própria realidade. Para além, sou estudante de desenvolvimento Full Stack & Sistemas de Informação. 
-
+<span style="color ; font-family: ; font-size: 18px;"> 
+Sou Adelaine, estudante de desenvolvimento web. 
+Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e utilizo a linguagem javacript para desenvolvimento dos meus projetos.
 <br> 
 <br>
 
@@ -18,8 +19,6 @@
 
 <span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas:
 <span> 
-
-
 
 
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() &nbsp;
