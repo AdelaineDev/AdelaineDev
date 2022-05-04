@@ -4,7 +4,7 @@
 <span style="color ; font-family: ; font-size: 18px;"> 
 Sou Adelaine, estudante de desenvolvimento web. 
 Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e utilizo a linguagem javacript para desenvolvimento dos meus projetos. <br>
-Para além, tenho conhecimentos prático nas metodologias scrum e kanban e o conhecimento teórico em arquitetura MVC.
+Para além, tenho conhecimentos prático nas metodologias scrum e kanban, e o conhecimento teórico em arquitetura MVC.
 <br> 
 <br>
 
