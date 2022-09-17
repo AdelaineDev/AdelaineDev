@@ -1,12 +1,12 @@
-<span style="color ; font-family: Lucida Sans Unicode ; font-size: 28px;"> Hello, World! ✋
-<br>
+
+<br>![Capa de perfil para banner de linkedIn (1)](https://user-images.githubusercontent.com/90655125/190840049-6125e095-3039-42c4-b611-e230eff1a691.png)
+
 
 <span style="color ; font-family: ; font-size: 18px;"> 
-Sou Adelaine, estudante de desenvolvimento web. 
-Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e utilizo a linguagem javacript para desenvolvimento dos meus projetos. <br>
+ <br>
 
-<br> 
-<br>
+
+<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho conhecimento:
 
 <div style="text-align:center">
 
@@ -21,37 +21,10 @@ Atualmente, me dedico ao aprendizado tanto do front-end, quanto do back-end; e u
 <span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho conhecimento:
 <span> 
 
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() &nbsp;
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]() &nbsp;
-[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]() &nbsp;
-[![JavaCript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
- 
+
+
 
  
-<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que estou aprendendo:
-<span> 
- 
-[![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
- [![TypeScript]( 	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit
-)]()
- 
- 
-
-
-
-<br>
-<br>
-<br> 
-<br> 
-
-
- ---
-<br>
-
-<div style="text-align: center">
 
 <span style="color:belge ; font-family: Bahnschrift;font-size: 20px"> Conecte-se:
 <br>
