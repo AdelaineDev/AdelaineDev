@@ -1,5 +1,6 @@
+![Capa de perfil para banner de linkedIn (4)](https://user-images.githubusercontent.com/90655125/191139201-2bd48996-3599-409b-a6ab-233fa10d9ded.png)
 
-![Capa de perfil para banner de linkedIn (3)](https://user-images.githubusercontent.com/90655125/191126488-b5924820-266b-4656-9bf5-4bf212f33dc6.png)
+
 <Br>
 <Br>
 <Br>
