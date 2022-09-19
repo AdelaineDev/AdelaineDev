@@ -1,33 +1,45 @@
 
-<br>![Capa de perfil para banner de linkedIn (1)](https://user-images.githubusercontent.com/90655125/190840049-6125e095-3039-42c4-b611-e230eff1a691.png)
+![Capa de perfil para banner de linkedIn (3)](https://user-images.githubusercontent.com/90655125/191126488-b5924820-266b-4656-9bf5-4bf212f33dc6.png)
+<Br>
+<Br>
+<Br>
+<h2 align="center"> Movida pela crença de que as tecnologias é  meio para beneficiar pessoas. </h2>
+<Br>
+<Br>
 
 
-<span style="color ; font-family: ; font-size: 18px;"> 
- <br>
+<h4 align="justify"> Tecnologias e Ferramentas que utilizo no meu dia-a-dia: </h4>
+<br>
 
 
-<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho conhecimento:
+[![My Skills](https://skillicons.dev/icons?i=git,docker,spring,java,react,maven,postgres,mongodb,ts&theme=light)](https://skillicons.dev)
 
-<div style="text-align:center">
 
- ![Adelaine GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelaineDev&show_icons=true&theme=dark)
 
 <br>
 <br>
 <br>
-</div>
+<br>
 
 
-<span style="color ; font-family: Bahnschrift; font-size: 22px;"> Tecnologias e Ferramentas que tenho conhecimento:
-<span> 
+ 
+
+![Adelaine GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelaineDev&show_icons=true&theme=tokyonight) 
 
 
 
 
  
 
-<span style="color:belge ; font-family: Bahnschrift;font-size: 20px"> Conecte-se:
+
+
+
+ 
 <br>
+<br>
+<br>
+<h3 align="justify"> Conecte-se </h3>
+<Br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelainesantos/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.devadelaine@gmail.com)
