@@ -1,4 +1,5 @@
-![Capa de perfil para banner de linkedIn (4)](https://user-images.githubusercontent.com/90655125/191139201-2bd48996-3599-409b-a6ab-233fa10d9ded.png)
+
+![Capa Github (1)](https://user-images.githubusercontent.com/90655125/210188982-e86e62b1-63d5-4ad7-adb3-affebaddc15b.png)
 
 
 <Br>
@@ -7,9 +8,13 @@
 <h2 align="center"> Movida pela crença de que as tecnologias é  meio para beneficiar pessoas. </h2>
 <Br>
 <Br>
+<br>
 
+ 
 
-<h4 align="justify"> Tecnologias e Ferramentas que utilizo no meu dia-a-dia: </h4>
+ 
+ 
+### Tecnologias e Ferramentas que utilizo no meu dia-a-dia: </h4>
 <br>
 
 
@@ -17,10 +22,13 @@
 
 
 
-<br>
-<br>
-<br>
-<br>
+
+ 
+ 
+ <br>
+ <br>
+
+ 
 
 
  
