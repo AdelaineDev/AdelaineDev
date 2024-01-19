@@ -1,11 +1,18 @@
 
-![Capa Github (1)](https://user-images.githubusercontent.com/90655125/210188982-e86e62b1-63d5-4ad7-adb3-affebaddc15b.png)
+
+## Hi There! I'm Adelaine.
+- Passionate about web development, particularly in the back-end.
+- Currently, I work with Java & Spring Boot. I also apply concepts of event-driven architecture and reactive programming in my daily tasks.
+- I strongly believe that we go further collectively, so I am starting to contribute to the open-source community.
+- University student in Information Systems at UFBA.
+- Fun fact: Amateur athlete in running and plays musical instruments.
+- Pronouns: She/Her.
 
 
 <Br>
 <Br>
 <Br>
-<h2 align="center"> Movida pela crença de que as tecnologias é  meio para beneficiar pessoas. </h2>
+<h4 align="center"> Motivated by the belief that technology is a means to benefit people. </h4>
 <Br>
 <Br>
 <br>
@@ -14,41 +21,20 @@
 
  
  
-### Tecnologias e Ferramentas que utilizo no meu dia-a-dia: </h4>
+### 
+Technologies and Tools I use in my daily routine: </h4>
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,spring,java,react,maven,postgres,mongodb,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,spring,java,maven,postgres,mongodb,kafka,kotlin&theme=light)](https://skillicons.dev)
 
 
 
 
  
- 
- <br>
- <br>
+ <br/>
+ <br/>
 
- 
-
-
- 
-
-![Adelaine GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelaineDev&show_icons=true&theme=tokyonight) 
-
-
-
-
- 
-
-
-
-
- 
-<br>
-<br>
-<br>
-<h3 align="justify"> Conecte-se </h3>
-<Br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelainesantos/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelainedev@gmail.com)
